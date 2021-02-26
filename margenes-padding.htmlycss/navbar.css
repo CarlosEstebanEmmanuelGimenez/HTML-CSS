@@ -35,4 +35,7 @@ nav {
     .nav-buton {
         display: inline-block;
     }
+    .desaparece {
+        display: none;
+    }
 }
